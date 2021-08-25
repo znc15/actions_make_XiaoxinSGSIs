@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://download.meizu.com/Firmware/Flyme/16s_Pro/9.21.8.24/cn_beta/20210824002116/e70d8270/update.zip",
+  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.0.0.0/cn/20210602181843/cb7ef508/update.zip",
   "rom_name": "update.zip",
-  "pack_sgsi": "Flyme9.8.24-SGSI-AB.zip",
+  "pack_sgsi": "Flyme9.0.0.0.A-SGSI-AB.zip",
   "make_miui": false,
   "make_flyme": true,
   "make_coloros": false,
