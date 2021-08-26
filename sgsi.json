@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://down.warbler.cc/XiaoMi-6/MIUI-TR/MIUITR_MI6_SAGIT_M12.5-A10_21.8.18.zip",
-  "rom_name": "MIUITR_MI6_SAGIT_M12.5-A10_21.8.18.zip",
-  "pack_sgsi": "MIUITR_MI6_SAGIT_M12.5-A10_21.8.18-SGSI-AB.zip",
+  "rom_url": "https://down.warbler.cc/XiaoMi-Mix-2/MIUI-Xuebao/Paper_MIX2_MIUI12.5-r9.7-%E9%BE%99%E8%85%BE%E8%B1%B9%E5%8F%98.zip",
+  "rom_name": "Paper_MIX2_MIUI12.5-r9.7-%E9%BE%99%E8%85%BE%E8%B1%B9%E5%8F%98.zip",
+  "pack_sgsi": "MI6-M12.5-A10_21.8.18-SGSI-AB.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
