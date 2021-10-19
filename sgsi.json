@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V11.0.9.0.QFACNXM/miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip",
-  "rom_name": "miui_CEPHEUS_V11.0.9.0.QFACNXM_aa7683f027_10.0.zip",
-  "pack_sgsi": " MIUI11-MI9-V11.0.9.0.QFACNXM-SGSI_AB.zip",
+  "rom_url": "https://bigota.d.miui.com/21.10.15/miui_CEPHEUS_21.10.15_b9e51b2274_11.0.zip",
+  "rom_name": "miui_CEPHEUS_21.10.15_b9e51b2274_11.0.zip",
+  "pack_sgsi": " MIUI12.5-MI9-21.10.15-SGSI_AB.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
