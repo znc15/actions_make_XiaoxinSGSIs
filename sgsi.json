@@ -1,11 +1,11 @@
 {
-  "rom_url": "http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip",
-  "rom_name": "OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip",
-  "pack_sgsi": "Hydrogen_OnePlus5T_10.0.3_AB_sgsi.zip",
-  "make_miui": false,
+  "rom_url": "https://bigota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip",
+  "rom_name": "miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip",
+  "pack_sgsi": "MIUI12.5_RedmiNote7_12.5.7.0_AB_sgsi.zip",
+  "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
-  "make_h2os": true,
+  "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false
