@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/20.3.26/miui_LAVENDER_20.3.26_eae10f6555_10.0.zip",
-  "rom_name": "miui_LAVENDER_20.3.26_eae10f6555_10.0.zip",
-  "pack_sgsi": "MIUI11_RedmiNote7_20.3.26_AB_sgsi.zip",
+  "rom_url": "https://bigota.d.miui.com/V12.0.3.0.QFMCNXM/miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip",
+  "rom_name": "miui_LAURUS_V12.0.3.0.QFMCNXM_33dbfb5dd7_10.0.zip",
+  "pack_sgsi": "MIUI12_XiaoMiCC9e_12.0.3.0_AB_sgsi.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
