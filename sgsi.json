@@ -1,11 +1,11 @@
 {
-  "rom_url": "https://download.meizu.com/Firmware/Flyme/16s/9.21.11.18/cn_beta/20211117221328/735aefce/update.zip",
-  "rom_name": "update.zip",
-  "pack_sgsi": "Flyme9_16s_9.21.11.18_AB.zip",
+  "rom_url": "http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip",
+  "rom_name": "OnePlus5THydrogen_43_OTA_065_all_2012030405_03dba2c095454647.zip",
+  "pack_sgsi": "Hydrogen_OnePlus5T_10.0.3_AB_sgsi.zip",
   "make_miui": false,
-  "make_flyme": true,
+  "make_flyme": false,
   "make_coloros": false,
-  "make_h2os": false,
+  "make_h2os": true,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": false
