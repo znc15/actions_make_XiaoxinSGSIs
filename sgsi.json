@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.7.0.QFGCNXM/miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip",
-  "rom_name": "miui_LAVENDER_V12.5.7.0.QFGCNXM_10b2f7da11_10.0.zip",
-  "pack_sgsi": "MIUI12.5_RedmiNote7_12.5.7.0_AB_sgsi.zip",
+  "rom_url": "https://bigota.d.miui.com/20.12.9/miui_LAVENDER_20.12.9_e9cdcdb88d_10.0.zip",
+  "rom_name": "miui_LAVENDER_20.12.9_e9cdcdb88d_10.0.zip",
+  "pack_sgsi": "MIUI12_RedmiNote7_20.12.9_AB_sgsi.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
