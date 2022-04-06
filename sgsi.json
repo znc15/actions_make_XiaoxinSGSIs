@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/20.3.28/miui_UMI_20.3.28_78ccc2b2e2_10.0.zip",
-  "rom_name": "miui_UMI_20.3.28_78ccc2b2e2_10.0.zip",
-  "pack_sgsi": "MIUI11_UMI_20.3.28_AB_sgsi.zip",
+  "rom_url": "https://bigota.d.miui.com/20.3.26/miui_MIMAX3_20.3.26_819dbc8379_10.0.zip",
+  "rom_name": "miui_MIMAX3_20.3.26_819dbc8379_10.0.zip",
+  "pack_sgsi": "MIUI11_MIMAX3_20.3.26_AB_sgsi.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
